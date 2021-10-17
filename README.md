@@ -1,10 +1,21 @@
 # Firebase with Flutter
 This is a simple application developed for learning the integration of firebase with flutter for User Authentication and Firestore Database.
-<img src="./snaps/register.png" width=200px/>
-<img src="./snaps/signIn.png" width=200px/>
-<img src="./snaps/splash.png" width=200px/>
-<img src="./snaps/home.png" width=200px/>
-<img src="./snaps/bottom.png" width=200px/>
+  <table>
+  <tr>
+    <td><img src="./snaps/register.png" width=200px/>
+</td>
+    <td><img src="./snaps/signIn.png" width=200px/>
+</td>
+    <td><img src="./snaps/splash.png" width=200px/>
+</td>
+        <td><img src="./snaps/home.png" width=200px/>
+
+</td>
+    <td><img src="./snaps/bottom.png" width=200px/>
+
+</td>
+  </tr>
+</table>
 
 ## Getting Started
 
